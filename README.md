@@ -1,1 +1,6 @@
-# React-dapp-example
+### Steps
+
+```bash
+npm i
+npm run start
+```
